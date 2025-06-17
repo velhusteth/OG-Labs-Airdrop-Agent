@@ -1,0 +1,25 @@
+{
+    "name": "0g-token-farming",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "blockchain",
+      "web3",
+      "farming",
+      "0g"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "web3": "^4.1.1",
+      "colors": "^1.4.0",
+      "fs": "0.0.1-security"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    }
+  }
